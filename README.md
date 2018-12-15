@@ -6,7 +6,7 @@ Feature Teller is a SMS-style ticker like display which shows features of your s
 A Quick Demo
 ============
 
-I have already used it in my [Sprite2CSS](http://projects.junaidbaloch.com/sprite2css/) app.
+I have already used it in my [Sprite2CSS](https://projects.junaidqadir.com/sprite2css/) app.
 
 USAGE
 =====
